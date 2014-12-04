@@ -15,7 +15,7 @@ socks/SocksiPy coded by Dan Haim <negativeiq@users.sourceforge.net>
 	socks/PySocks forked by Anorov <anorov.vorona@gmail.com>
 imaplib2 coded by Piers Lauder <piers@janeelix.com>
 """
-__depends__  """
+__depends__  = """
 socks
 imaplib2
 """
